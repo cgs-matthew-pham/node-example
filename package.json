@@ -1,0 +1,23 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "Node example for Y9/10 IST",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cgs-matthew-pham@github.com/cgs-matthew-pham/node-example.git"
+  },
+  "author": "Mr Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgs-matthew-pham/node-example/issues"
+  },
+  "homepage": "https://github.com/cgs-matthew-pham/node-example#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
